@@ -82,4 +82,4 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## Contact
 
-Muhammad Rafiq - [LinkedIn](https://www.linkedin.com/in/rafiqdeveloper) - muhammad.rafiq@example.com
+Muhammad Rafiq - [LinkedIn](https://www.linkedin.com/in/rafiqdeveloper)
